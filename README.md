@@ -1,2 +1,3 @@
 # ML-Project
-Just to learn
+This just simple Machine Learning Project and Learing.
+
